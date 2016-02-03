@@ -1,5 +1,7 @@
 # QVR
-Virtual reality support for Qt framework
+Virtual reality support for Qt framework.
+
+Supports GNU/Linux, Sailfish OS, Google Android (probably others)
 
 
     This program is free software: you can redistribute it and/or modify
